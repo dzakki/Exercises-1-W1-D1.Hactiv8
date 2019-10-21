@@ -1,0 +1,94 @@
+/* 	1. Newton Second Law
+
+		~ Algoritma ~
+
+		1. Tentukan nilai M dan A
+		2. Nilai M sama dengan 600 kg
+		4. Nilai A sama dengan 2 m/s2
+		3. Kalikan nilai M dengan A
+		4. Tampilkan hasil perkalian  di dalam varible ΣF
+
+		~ Pseudocode
+
+		SET M WITH 600
+		SET A WITH 2
+		SET ΣF
+
+		CALCULATE A times B
+		SET ΣF value with calculation result
+
+		DISPLAY ΣF 
+
+		
+	2. Tahun kabisat
+
+		~ Algoritma ~
+
+		1. Tentukan tahun.
+		2. Jika tahun modulus 4 sama dengan 0 dan tahun modulus 100 tidak sama dengan 0 maka muncul "Tahun kabisat dengan syarat 1"
+		3. Jika tahun modulus 4 sama dengan 0, tahun modulus 100 sama dengan 0 dan tahun modulus 400 sama dengan 0, maka muncul "Tahun kabisat dengan syarat 2"
+		4. Jika syarat 1 dan 2 tidak terpenuhi, maka "Bukan tahun kabisat"
+
+		~ Pseudocode ~
+
+		SET tahun WITH 2019
+		IF tahun MOD 4 EQUALS 0 AND tahun MOD 100 NOT EQUALS 0 THEN
+			DISPLAY "Tahun kabisat dengan syarat 1"
+		ELSE IF (tahun MOD 4 EQUALS 0 AND tahun MOD 100 EQUALS 0) AND tahun MOD 400 EQUALS 0 THEN 
+			DISPLAY "Tahun kabisat dengan syarat 2"
+		ELSE 
+			DISPLAY "Bukan tahun kabisat"
+		END IF
+
+	3. Laundry Day
+
+		~ Algoritma ~
+
+		1. Tentukan jumlah maksimal baju foxie yang akan di cuci. 
+		2. Jumlah maksimal baju yaitu 20 
+		3. Masukkan baju foxie ke dalam mesin cuci yang akan di cuci.
+		4. Jika baju foxie yang di dalam mesin cuci sudah berjumlah maksimal baju maka mesin cuci di nyalakan.
+		5. Jika baju foxie yang di dalam mesin cuci belum berjumlah maksimal baju, maka kembali ke step 2.
+
+		~ Pseudocode ~
+
+		SET bajuMaksimal WITH 20
+		STORE baju WITH 0
+
+		WHILE baju < bajuMaksimal
+			DO "Masukkan baju foxie ke dalam mesin cuci yang akan di cuci"
+			ADD baju by 1
+
+		DISPLAY "Nyalakan mesin"
+		ENDWHILE
+
+	4. Periksa Kuku
+
+		~ Algoritma ~
+
+		1. Tentukan jumlah kelas
+		2. Tentukan jumlah murid
+		3. Jika di setiap per kelas ada salah satu murid yang kukunya panjang maka "Siswa/siswi tersebut akan di hukum"
+		4. Jika di setiap per kelas ada murid yang kukunya tidak panjang maka "Siswa/siswi tersebut akan di puji oleh guru"
+
+		~ Pseudocode ~
+
+		STORE kelas WITH 0
+		STORE murid WITH 0
+		STORE maxMurid WITH 0
+
+		WHILE kelas < 10
+			ADD kelas by 1
+
+			WHILE murid < 40
+				IF murid MOD 3 EQUALS 1
+					 DISPLAY "Siswa/siswi tersebut akan di hukum"
+				ELSE
+					 DISPLAY "Siswa/siswi tersebut akan di puji"
+				END IF
+
+				ADD murid by 1
+			ENDWHILE
+		ENDWHILE
+
+*/	
