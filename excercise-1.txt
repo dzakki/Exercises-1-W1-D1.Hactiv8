@@ -78,14 +78,14 @@
 
 		~ Pseudocode ~
 
-		STORE kelas WITH 0
-		STORE murid WITH 0
-		STORE maxMurid WITH 0
+		STORE kelas WITH 1
+		STORE murid WITH 1
+		STORE maxMurid WITH 40
 
-		WHILE kelas < 10
+		WHILE kelas <= 10
 			ADD kelas by 1
 
-			WHILE murid < 40
+			WHILE murid <= maxMurid
 				IF murid MOD 3 EQUALS 1
 					 DISPLAY "Siswa/siswi tersebut akan di hukum"
 				ELSE
