@@ -8,7 +8,7 @@
 		3. Kalikan nilai M dengan A
 		4. Tampilkan hasil perkalian  di dalam varible ΣF
 
-		~ Pseudocode
+		~ Pseudocode ~
 
 		SET M WITH 600
 		SET A WITH 2
@@ -53,13 +53,18 @@
 		~ Pseudocode ~
 
 		SET bajuMaksimal WITH 20
-		STORE baju WITH 0
+		STORE baju WITH 1
 
-		WHILE baju < bajuMaksimal
+		WHILE baju <= bajuMaksimal
+
+			if baju EQUALS bajuMaksimal THEN
+				Display "Nyalakan mesin"
+				return
+			END IF
+
 			DO "Masukkan baju foxie ke dalam mesin cuci yang akan di cuci"
 			ADD baju by 1
 
-		DISPLAY "Nyalakan mesin"
 		ENDWHILE
 
 	4. Periksa Kuku
@@ -89,6 +94,7 @@
 
 				ADD murid by 1
 			ENDWHILE
+
 		ENDWHILE
 
 */	
