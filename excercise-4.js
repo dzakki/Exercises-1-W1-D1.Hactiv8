@@ -8,14 +8,25 @@ tanggal = 1;
 bulan = 1;
 tahun = 2001;
 
+switch (true) {
+    case (tanggal < 1 || tanggal > 31):
+        tanggal = 'format tanggal minimal 1 dan maksimal 30!!. '
+        break;
+    case (tahun > 2200 || tahun < 1900 ):
+        tahun = 'format tahun minimal 1900 dan maksimal 1900!!.' 
+        break;
+}
+
 switch (bulan) {
     case 1:
         bulan = 'Januari'
         break;
     case 2:
         bulan = 'Februari'
-        if (tanggal > 29) {
-            tanggal = 'untuk bulan februari, format tanggal maksimal 29!!'
+        switch (true) {
+            case (tanggal > 29):
+                tanggal = 'untuk bulan februari, format tanggal maksimal 29!!'    
+                break;
         }
         break;
     case 3:
@@ -52,10 +63,4 @@ switch (bulan) {
         bulan = 'format bulan maksimal 12'
         break 
 }
-if (tanggal > 31 || tanggal < 1) {
-    tanggal = 'format tanggal maksimal 31 dan minimal 1!!'
-}
-if (tahun > 2200 || tahun < 1900 ) {
-    tahun = 'format tahun minimal 1900 dan maksimal 1900!!'  
-} 
 console.log(`${tanggal} ${bulan} ${tahun}`)
