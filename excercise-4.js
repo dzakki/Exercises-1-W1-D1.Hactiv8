@@ -4,8 +4,8 @@
 var tanggal,
     bulan,
     tahun;
-tanggal = 32;
-bulan = 13;
+tanggal = 1;
+bulan = 12;
 tahun = 2001;
 
 switch (true) {
