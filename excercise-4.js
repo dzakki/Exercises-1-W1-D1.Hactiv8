@@ -14,6 +14,9 @@ switch (bulan) {
         break;
     case 2:
         bulan = 'Februari'
+        if (tanggal > 29) {
+            tanggal = 'untuk bulan februari, format tanggal maksimal 29!!'
+        }
         break;
     case 3:
         bulan = 'Maret'
@@ -49,8 +52,8 @@ switch (bulan) {
         bulan = 'format bulan maksimal 12'
         break 
 }
-if (tanggal > 31) {
-    tanggal = 'format tanggal maksimal 31!!'
+if (tanggal > 31 || tanggal < 1) {
+    tanggal = 'format tanggal maksimal 31 dan minimal 1!!'
 }
 if (tahun > 2200 || tahun < 1900 ) {
     tahun = 'format tahun minimal 1900 dan maksimal 1900!!'  
