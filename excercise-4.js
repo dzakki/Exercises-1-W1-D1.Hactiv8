@@ -4,8 +4,8 @@
 var tanggal,
     bulan,
     tahun;
-tanggal = 1;
-bulan = 1;
+tanggal = 32;
+bulan = 13;
 tahun = 2001;
 
 switch (true) {
@@ -60,7 +60,7 @@ switch (bulan) {
         bulan = 'Desember'
         break;   
     default:
-        bulan = 'format bulan maksimal 12'
+        bulan = 'format bulan maksimal 12!!'
         break 
 }
 console.log(`${tanggal} ${bulan} ${tahun}`)
