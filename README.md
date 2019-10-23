@@ -17,18 +17,18 @@
 [Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/anchor-switch-case.md)
 [Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-4.js)
 
-## Task 5
-[Question](#)
-[Answer](#)
+## Task 5 ✔
+[Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/anchor-main-string.md)
+[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-5.js)
 
-## Task 6
-[Question](#)
-[Answer](#)
+## Task 6 ✔
+[Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/anchor-main-loop.md)
+[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-6.js)
 
-## Task 7
-[Question](#)
-[Answer](#)
+## Task 7 ✔
+[Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/anchor-main-loop-asterisks.md)
+[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-7.js)
 
-## Task 8
+## Task 8 
 [Question](#)
 [Answer](#)
