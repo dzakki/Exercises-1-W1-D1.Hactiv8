@@ -36,15 +36,16 @@
 //
 [Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-7.js)
 
-## Task 8 | JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions)
+## Task 8 | JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions) ✔
 [Question](https://www.codecademy.com/learn)
 //
-[Answer](#)
+[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-8.png)
+![Answer](https://raw.githubusercontent.com/dzakki/h8-p0-w2/master/excercise-8.png)
 
-## Task 9 | Berlatih Penggunaan Functions
+## Task 9 | Berlatih Penggunaan Functions ✔
 [Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/anchor-basic-function.md)
 //
-[Answer](#)
+[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-7.js)
 
 ## Task 10 | Bandingkan Angka
 [Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/challenge-bandingkan-angka.md)
