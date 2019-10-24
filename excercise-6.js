@@ -1,14 +1,14 @@
 console.log('LOOPING PERTAMA')
 var numLoopingPertama = 1;
 while ( numLoopingPertama < 20) {
-    numLoopingPertama++
+    numLoopingPertama += 2
     console.log(numLoopingPertama + ' - I love coding')
 }
 console.log('LOOPING KEDUA')
 var numLoopingKedua = 20;
 while (numLoopingKedua > 1) {
     console.log(numLoopingKedua + ' - I will become fullstack developer')
-    numLoopingKedua--
+    numLoopingKedua -=2
 }
 
 console.log('LOOPING PERTAMA')
