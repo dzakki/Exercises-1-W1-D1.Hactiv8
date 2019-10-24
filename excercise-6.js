@@ -1,5 +1,5 @@
 console.log('LOOPING PERTAMA')
-var numLoopingPertama = 1;
+var numLoopingPertama = 0;
 while ( numLoopingPertama < 20) {
     numLoopingPertama += 2
     console.log(numLoopingPertama + ' - I love coding')
