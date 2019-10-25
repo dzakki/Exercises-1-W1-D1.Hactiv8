@@ -47,22 +47,22 @@
 //
 [Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-9.js)
 
-## Task 10 | Bandingkan Angka
+## Task 10 | Bandingkan Angka ✔
 [Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/challenge-bandingkan-angka.md)
 //
-[Answer](#)
+[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-10.js)
 
-## Task 11 | Balik Kata
+## Task 11 | Balik Kata ✔
 [Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/challenge-balik-kata.md)
 //
-[Answer](#)
+[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-11.js)
 
-## Task 12 | Konversi Menit
+## Task 12 | Konversi Menit ✔
 [Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/challenge-konversi-menit.md)
 //
-[Answer](#)
+[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-12.js)
 
-## Task 13 |  X dan O
+## Task 13 |  X dan O ✔
 [Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/challenge-x-dan-o.md)
 //
-[Answer](#)
+[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-13.js)
