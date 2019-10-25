@@ -45,7 +45,7 @@
 ## Task 9 | Berlatih Penggunaan Functions ✔
 [Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/anchor-basic-function.md)
 //
-[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-7.js)
+[Answer](https://github.com/dzakki/h8-p0-w2/blob/master/excercise-9.js)
 
 ## Task 10 | Bandingkan Angka
 [Question](https://github.com/dzakki/phase-0-activities/blob/master/modules/challenge-bandingkan-angka.md)
